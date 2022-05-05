@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2013/10/15 11:08:43.000.186,=C:\Users\Duro\Documents\RAD Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2013/10/15 11:17:29.000.462,C:\Users\Duro\Documents\RAD Studio\Projects\Viewer funksional\Unit3.pas=C:\Users\Duro\Documents\RAD Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2013/10/15 11:17:29.000.462,C:\Users\Duro\Documents\RAD Studio\Projects\Viewer funksional\Unit3.dfm=C:\Users\Duro\Documents\RAD Studio\Projects\Unit3.dfm</Transaction>
+    <Transaction>2013/10/15 11:17:31.000.070,C:\Users\Duro\Documents\RAD Studio\Projects\Viewer funksional\Project3.dproj=C:\Users\Duro\Documents\RAD Studio\Projects\Project3.dproj</Transaction>
+    <Transaction>2014/03/10 12:42:44.000.392,=J:\Delphi Projects\Remote\Viewer\Unit1.pas</Transaction>
+    <Transaction>2014/03/11 10:16:26.000.207,J:\Delphi Projects\Remote\HostAndViewer 1.0\ViewerF\Unit1.pas=J:\Delphi Projects\Remote\HostAndViewer 1.0\ViewerF\RemoteViewer.pas</Transaction>
+    <Transaction>2014/03/11 10:16:51.000.572,J:\Delphi Projects\Remote\HostAndViewer 1.0\ViewerF\Unit3.pas=J:\Delphi Projects\Remote\HostAndViewer 1.0\ViewerF\RemoteViewerMainForm.pas</Transaction>
+    <Transaction>2014/03/11 10:16:51.000.572,J:\Delphi Projects\Remote\HostAndViewer 1.0\ViewerF\Unit3.dfm=J:\Delphi Projects\Remote\HostAndViewer 1.0\ViewerF\RemoteViewerMainForm.dfm</Transaction>
+    <Transaction>2014/03/11 10:33:47.000.945,J:\Delphi Projects\Remote\HostAndViewer 1.0\ViewerF\Project3.dproj=J:\Delphi Projects\Remote\HostAndViewer 1.0\ViewerF\RemoteControlViewer.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
